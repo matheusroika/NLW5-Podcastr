@@ -18,7 +18,7 @@
   --purple-300: #9F75FF;
   --purple-400: #9164FA; 
   --purple-500: #8257E5;
-  --purple-800: #6F48C9;
+  --purple-800: #6F48C9; 
 }
 
 @media (max-width: 1080px) {
@@ -45,7 +45,7 @@ body, input, textarea, button {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   font-family: Lexend, sans-serif;
-  color: var(--gray-800)
+  color: var(--gray-800);
 }
 
 h1 {
